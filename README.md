@@ -1,3 +1,3 @@
 # ft-unicamp-si100a
 
-#Codes seen during class
+#Codes made by my own bare hands
