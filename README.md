@@ -1,3 +1,3 @@
 # ft-unicamp-si100a
 
-#Codes made by my own bare hands
+#Códigos feitos pelas minhas próprias mãos
