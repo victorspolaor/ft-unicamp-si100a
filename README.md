@@ -1,3 +1,3 @@
 # ft-unicamp-si100a
 
-#Códigos feitos pelas minhas próprias mãos
+#Códigos desenvolvidos em aula na disciplina Algoritmos e Programação de Computadore I, by my own bare hands
